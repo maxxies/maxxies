@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-{{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}}
 
 - 🔭 I’m currently working on projects to better myself in cpp.
 - 🌱 I’m currently learning cpp.
