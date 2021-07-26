@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 _Social media handles:_
 [LinkedIn](https://www.linkedin.com/in/maxwell-mawube-588444193/)
 [Twitter](https://twitter.com/maxwell_mawube)
-[GitHub](https://github.com/maxxies/)
 
