@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: social media handles
 - ⚡ Fun fact: Would not be all about codes when we meet
+https://www.linkedin.com/in/maxwell-mawube-588444193/ - automatic
+[LinkedIn](https://www.linkedin.com/in/maxwell-mawube-588444193/)
