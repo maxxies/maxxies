@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on projects to better myself in cpp.
+- 🔭 I’m currently working on projects to better myself.
 - 🌱 I’m currently learning cpp.
 - 🤔 I’m looking for help with Machine learning.
 - 💬 Ask me about anything.
