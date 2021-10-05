@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on projects to better myself.
-- 🌱 I’m currently learning cpp.
-- 🤔 I’m looking for help with Machine learning.
+- 🌱 I’m currently learning frontend development , ML and other things.
 - 💬 Ask me about anything.
 - 📫 How to reach me: social media handles
 - ⚡ Fun fact: Would not be all about codes when we meet
