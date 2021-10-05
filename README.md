@@ -1,5 +1,5 @@
 # Hey👋
-![example workflow](https://github.com/github/docs/workflows/main.yml/badge.svg)
+<!-- ![example workflow](https://github.com/github/docs/workflows/main.yml/badge.svg) -->
 <!--
 **maxxies/maxxies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
