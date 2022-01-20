@@ -36,4 +36,5 @@ You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2] .
 [1]: https://twitter.com/maxwell_mawube
 [2]: https://www.linkedin.com/in/maxwell-mawube-588444193/
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${maxxies}.${})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${maxxies}.${388648153})
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxies&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
