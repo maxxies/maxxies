@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: social media handles and my email
 - ⚡ Fun fact: Would not be all about codes when we meet
 
-### Languages & Tools:
-Python  JavaScript  C++
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+### Technologies & Tools:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxies&theme=tokyonight" />
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
+
 
 
 ### Contact me:
@@ -37,9 +43,6 @@ You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2] .
 [2]: https://www.linkedin.com/in/maxwell-mawube-588444193/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${maxxies}.${388648153})
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxies&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
+
+
