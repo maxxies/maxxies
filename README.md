@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: social media handles and my email
 - ⚡ Fun fact: Would not be all about codes when we meet
-
-### Technologies & Tools:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxies&theme=tokyonight" />
+<!-- 
+<!-- ### Technologies & Tools:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxies&theme=tokyonight" /> --> -->
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -42,7 +42,7 @@ You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2] .
 [1]: https://twitter.com/maxwell_mawube
 [2]: https://www.linkedin.com/in/maxwell-mawube-588444193/
 
-![visits](https://visitor-badge.glitch.me/badge?page_id=${maxxies}.${388648153})
+![visits](https://visitor-badge.glitch.me/badge?page_id=${maxxies}.${388648153}) 
 
 
 
