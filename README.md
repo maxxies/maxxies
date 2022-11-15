@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning frontend development , ML and other things.
 - 💬 Ask me about anything.
 - 📫 How to reach me: social media handles and my email
-- ⚡ Fun fact: Would not be all about codes when we meet
-
+- ⚡ Fun fact: It would not be all about code when we meet
 ### Technologies & Tools:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxies&theme=tokyonight" /> 
 
