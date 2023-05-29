@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 <!-- <img 
    src="https://github-readme-stats.vercel.app/api?username=maxxies&show_icons=true&theme=tokyonight" 
 /> -->
+![Maxxies' GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxies&show_icons=true&theme=radical)
 - 🔭 I’m currently working on projects to better myself.
 - 🌱 I’m currently learning frontend development , ML and other things.
 - 💬 Ask me about anything.
