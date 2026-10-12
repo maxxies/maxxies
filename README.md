@@ -12,26 +12,11 @@ Here are some ideas to get you started:
 /> -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maxxies?theme=tokyonight)](https://git.io/awesome-stats-card)
 - 🔭 Working on projects to be a better version of myself.
-- 🌱 I’m learning frontend development, ML and other things.
-- 💬 Ask me about anything.
-- 📫 How to reach me: social media handles and my email
-- ⚡ Fun fact: It would not be all about code when we meet
-### Technologies & Tools:
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxies&theme=tokyonight" /> 
- -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-
-
-### Contact me:
-> You can contact me via [email form](<mailto:ahiamadzormaxwell7@gmail.com>)
-
+- 🌱 I’m learning ML.
+- ⚡ Fun fact: It won't be all about code when we meet
 
 ### My social media handles:
-You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2] .
+You can reach me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2] .
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
